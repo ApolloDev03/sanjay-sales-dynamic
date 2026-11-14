@@ -1,0 +1,9 @@
+.fieldError {
+  display: block;
+  margin: 6px 0 12px 8px;
+  color: #ff737d;
+  font-family: "Manrope", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.5;
+}

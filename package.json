@@ -1,0 +1,31 @@
+{
+  "name": "sanjay-sales",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6.6.0",
+    "aos": "2.3.4",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "1.11.3",
+    "next": "^16.4.3",
+    "pdfjs-dist": "5.4.624",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "sass": "^1.106.1",
+    "typescript": "^5"
+  }
+}
